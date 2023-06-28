@@ -5,7 +5,7 @@
 # SUMMARY
 I'm an enthusiastic and dedicated professional with extensive experience in Data Science. A proactive individual with a logical approach to challenges, performing effectively even within a highly pressurized working environment. A resourceful, analytical and creative problem-solver who has excellent interpersonal skills and the ability to develop and maintain mutually beneficial internal and external relationships.
 
-## 🔭 Area of Expertise
+## 🔭 Areas of Expertise
 ### Programming Language
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
